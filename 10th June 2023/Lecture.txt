@@ -3,5 +3,8 @@ JS The language
 2. Conditions
 3. Loops
 4. Functions
-5. I/P and O/P
-6. Files and Folders
+5. I/P and O/P = pending
+6. Files and Folders = pending
+
+Homework
+1. Find out why we need to test a num with div from 2 to squareroot(num) only to confirm that the number is prime
