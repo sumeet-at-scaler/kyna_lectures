@@ -1,0 +1,7 @@
+JS The language
+1. Variables
+2. Conditions
+3. Loops
+4. Functions
+5. I/P and O/P
+6. Files and Folders
