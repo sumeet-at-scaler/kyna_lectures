@@ -7,4 +7,4 @@ JS The language
 6. Files and Folders = pending
 
 Homework
-1. Find out why we need to test a num with div from 2 to squareroot(num) only to confirm that the number is prime
+1. Find out why we need to test a num with div from 2 to squareroot(num) only to confirm that the number is prime -> benjamin bulbs
