@@ -1,6 +1,6 @@
 1. DSA 
-    -> Subhesh Batch = 15th July
-    -> Subhesh 1 on 1 = Plug the gaps
+    -> Batch = 15th July
+    -> 1 on 1 = Plug the gaps
     -> 300 + 500 videos = solving the questions on leetcode
 2. Dev
     -> JS the language
