@@ -1,0 +1,10 @@
+JS The language
+1. Variables = done on 10th
+2. Conditions = done on 10th
+3. Loops = done on 10th
+4. Functions = done on 10th
+
+14th June
+5. I/P and O/P = pending (https://www.npmjs.com/package/minimist)
+6. Files and Folders = pending
+
